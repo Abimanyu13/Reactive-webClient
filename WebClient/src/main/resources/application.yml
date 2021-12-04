@@ -1,0 +1,8 @@
+server:
+    port: 9382
+
+    
+microservices:
+   servers: Picker profile
+   name: Testing sever
+   urls: "http://localhost:9383/profile"

@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "microservices",
+      "type": "com.WebClient.configuration.ServerIPProperties",
+      "sourceType": "com.WebClient.configuration.ServerIPProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "microservices.name",
+      "type": "java.lang.String",
+      "sourceType": "com.WebClient.configuration.ServerIPProperties"
+    },
+    {
+      "name": "microservices.servers",
+      "type": "java.lang.String",
+      "sourceType": "com.WebClient.configuration.ServerIPProperties"
+    },
+    {
+      "name": "microservices.urls",
+      "type": "java.lang.String",
+      "sourceType": "com.WebClient.configuration.ServerIPProperties"
+    }
+  ],
+  "hints": []
+}
